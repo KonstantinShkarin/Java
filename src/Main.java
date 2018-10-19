@@ -4,7 +4,6 @@
  */
 
 public class Main {
-    
 
     static byte myByte = -10;
     static int myInt = -1000;
@@ -41,9 +40,9 @@ public class Main {
 
             public static void check (int a){
                 if (a < 0) {
-                    System.out.println("Результат метода check: Передали отрицательное число");
+                    System.out.println("Результат метода check: Передали отрицательное число.");
                 } else
-                    System.out.println("Результат метода check: Передали положительное число");
+                    System.out.println("Результат метода check: Передали положительное число.");
             }
 
             public static void string () {
