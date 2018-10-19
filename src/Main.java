@@ -4,6 +4,8 @@
  */
 
 public class Main {
+    
+
     static byte myByte = -10;
     static int myInt = -1000;
     static long myLong = -10000L;
