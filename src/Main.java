@@ -16,10 +16,10 @@ public class Main {
 
     public static void main(String[] args) {
                 int a = result(1,3,5,6);
-                System.out.println("Результат метода result: "+a);
+                System.out.println("Результат метода result:  "+a);
 
                 boolean b = operation(2,5);
-                System.out.println("Результат метода operation: "+b);
+                System.out.println("Результат метода operation:  "+b);
 
                 check(-10);
                 string();
